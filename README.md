@@ -2,4 +2,4 @@
 Aprendiendo selenium basico
 
 Hola, este es el curso de selenium,
-Estamos trabajando con git
+Estamos trabajando con git y su comportamento
